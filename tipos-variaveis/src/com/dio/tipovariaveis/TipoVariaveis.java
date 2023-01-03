@@ -1,3 +1,4 @@
+package com.dio.tipovariaveis;
 
 public class TipoVariaveis {
 
